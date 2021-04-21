@@ -73,3 +73,4 @@ async def skip(_, message: Message):
             )
 
         await message.reply_text("➡️ Melewati lagu saat ini!")
+
